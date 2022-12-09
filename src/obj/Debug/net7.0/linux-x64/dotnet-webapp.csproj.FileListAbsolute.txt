@@ -1,0 +1,8 @@
+/home/jakub/repos/dotnet-webapp/src/obj/Debug/net7.0/linux-x64/dotnet-webapp.csproj.AssemblyReference.cache
+/home/jakub/repos/dotnet-webapp/src/obj/Debug/net7.0/linux-x64/dotnet-webapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jakub/repos/dotnet-webapp/src/obj/Debug/net7.0/linux-x64/dotnet-webapp.AssemblyInfoInputs.cache
+/home/jakub/repos/dotnet-webapp/src/obj/Debug/net7.0/linux-x64/dotnet-webapp.AssemblyInfo.cs
+/home/jakub/repos/dotnet-webapp/src/obj/Debug/net7.0/linux-x64/dotnet-webapp.csproj.CoreCompileInputs.cache
+/home/jakub/repos/dotnet-webapp/src/obj/Debug/net7.0/linux-x64/dotnet-webapp.MvcApplicationPartsAssemblyInfo.cache
+/home/jakub/repos/dotnet-webapp/src/obj/Debug/net7.0/linux-x64/dotnet-webapp.RazorAssemblyInfo.cache
+/home/jakub/repos/dotnet-webapp/src/obj/Debug/net7.0/linux-x64/dotnet-webapp.RazorAssemblyInfo.cs
